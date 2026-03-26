@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "nama": "tess",
+    "harga": "2.000",
+    "code": "TTS",
+    "status": "On",
+    "desc": "Tes aja bre"
+  }
+]
