@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "nama": "Tes",
+    "harga": "2.00",
+    "category": "mlbb",
+    "code": "cc",
+    "status": "On",
+    "desc": "gg"
+  }
+]
