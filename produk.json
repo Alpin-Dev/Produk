@@ -30,5 +30,13 @@
     "code": "DML3",
     "status": "On",
     "desc": ""
+  },
+  {
+    "nama": "tes",
+    "harga": "555",
+    "category": "ttt",
+    "code": "ggf",
+    "status": "On",
+    "desc": ""
   }
 ]
