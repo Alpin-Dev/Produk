@@ -2686,5 +2686,77 @@
     "code": "LINK800",
     "status": "On",
     "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "100.000",
+    "harga": "101770",
+    "category": "TOKEN PLN",
+    "code": "PLNB100",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "1.000.000",
+    "harga": "1001770",
+    "category": "TOKEN PLN",
+    "code": "PLNB1000",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "20.000",
+    "harga": "21770",
+    "category": "TOKEN PLN",
+    "code": "PLNB20",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "200.000",
+    "harga": "201770",
+    "category": "TOKEN PLN",
+    "code": "PLNB200",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "50.000",
+    "harga": "51770",
+    "category": "TOKEN PLN",
+    "code": "PLNB50",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "500.000",
+    "harga": "501770",
+    "category": "TOKEN PLN",
+    "code": "PLNB500",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "5.000.000",
+    "harga": "5001770",
+    "category": "TOKEN PLN",
+    "code": "PLNB5JT",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "10.000.000",
+    "harga": "10001770",
+    "category": "TOKEN PLN",
+    "code": "PLNB10JT",
+    "status": "On",
+    "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "25.000",
+    "harga": "26770",
+    "category": "TOKEN PLN",
+    "code": "PLNB25",
+    "status": "On",
+    "desc": "Isi Token PLN"
   }
 ]
