@@ -1398,5 +1398,941 @@
     "code": "FF2000",
     "status": "On",
     "desc": "Diamond Free Fire"
+  },
+  {
+    "nama": "100.000",
+    "harga": "100038",
+    "category": "DANA",
+    "code": "D100",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "20.000",
+    "harga": "20038",
+    "category": "DANA",
+    "code": "D20",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "50.000",
+    "harga": "50038",
+    "category": "DANA",
+    "code": "D50",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "75.000",
+    "harga": "75038",
+    "category": "DANA",
+    "code": "D75",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "200.000",
+    "harga": "200038",
+    "category": "DANA",
+    "code": "D200",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "25.000",
+    "harga": "25038",
+    "category": "DANA",
+    "code": "D25",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "30.000",
+    "harga": "30038",
+    "category": "DANA",
+    "code": "D30",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "40.000",
+    "harga": "40038",
+    "category": "DANA",
+    "code": "D40",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "60.000",
+    "harga": "60038",
+    "category": "DANA",
+    "code": "D60",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "70.000",
+    "harga": "70038",
+    "category": "DANA",
+    "code": "D70",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "80.000",
+    "harga": "80038",
+    "category": "DANA",
+    "code": "D80",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "90.000",
+    "harga": "90038",
+    "category": "DANA",
+    "code": "D90",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "10.000",
+    "harga": "10038",
+    "category": "DANA",
+    "code": "D10",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "15.000",
+    "harga": "15038",
+    "category": "DANA",
+    "code": "D15",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "35.000",
+    "harga": "35038",
+    "category": "DANA",
+    "code": "D35",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "45.000",
+    "harga": "45038",
+    "category": "DANA",
+    "code": "D45",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "55.000",
+    "harga": "55038",
+    "category": "DANA",
+    "code": "D55",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "65.000",
+    "harga": "65038",
+    "category": "DANA",
+    "code": "D65",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "85.000",
+    "harga": "85038",
+    "category": "DANA",
+    "code": "D85",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "95.000",
+    "harga": "95038",
+    "category": "DANA",
+    "code": "D95",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "1.000",
+    "harga": "1038",
+    "category": "DANA",
+    "code": "D1",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "2.000",
+    "harga": "2038",
+    "category": "DANA",
+    "code": "D2",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "3.000",
+    "harga": "3038",
+    "category": "DANA",
+    "code": "D3",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "4.000",
+    "harga": "4038",
+    "category": "DANA",
+    "code": "D4",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "5.000",
+    "harga": "5038",
+    "category": "DANA",
+    "code": "D5",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "150.000",
+    "harga": "150038",
+    "category": "DANA",
+    "code": "D150",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "1.000.000",
+    "harga": "1000038",
+    "category": "DANA",
+    "code": "D1000",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "125.000",
+    "harga": "125038",
+    "category": "DANA",
+    "code": "D125",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "250.000",
+    "harga": "250038",
+    "category": "DANA",
+    "code": "D250",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "300.000",
+    "harga": "300038",
+    "category": "DANA",
+    "code": "D300",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "400.000",
+    "harga": "400038",
+    "category": "DANA",
+    "code": "D400",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "500.000",
+    "harga": "500038",
+    "category": "DANA",
+    "code": "D500",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "600.000",
+    "harga": "600038",
+    "category": "DANA",
+    "code": "D600",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "700.000",
+    "harga": "700038",
+    "category": "DANA",
+    "code": "D700",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "800.000",
+    "harga": "800038",
+    "category": "DANA",
+    "code": "D800",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "900.000",
+    "harga": "900038",
+    "category": "DANA",
+    "code": "D900",
+    "status": "On",
+    "desc": "Top Up Saldo DANA"
+  },
+  {
+    "nama": "20.000",
+    "harga": "19750",
+    "category": "Ovo",
+    "code": "OVO20",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "50.000",
+    "harga": "49750",
+    "category": "Ovo",
+    "code": "OVO50",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "100.000",
+    "harga": "99750",
+    "category": "Ovo",
+    "code": "OVO100",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "75.000",
+    "harga": "74750",
+    "category": "Ovo",
+    "code": "OVO75",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "25.000",
+    "harga": "24750",
+    "category": "Ovo",
+    "code": "OVO25",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "200.000",
+    "harga": "199750",
+    "category": "Ovo",
+    "code": "OVO200",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "40.000",
+    "harga": "39750",
+    "category": "Ovo",
+    "code": "OVO40",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "60.000",
+    "harga": "59750",
+    "category": "Ovo",
+    "code": "OVO60",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "70.000",
+    "harga": "69750",
+    "category": "Ovo",
+    "code": "OVO70",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "80.000",
+    "harga": "79750",
+    "category": "Ovo",
+    "code": "OVO80",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "90.000",
+    "harga": "89750",
+    "category": "Ovo",
+    "code": "OVO90",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "30.000",
+    "harga": "29750",
+    "category": "Ovo",
+    "code": "OVO30",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "10.000",
+    "harga": "9750",
+    "category": "Ovo",
+    "code": "OVO10",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "35.000",
+    "harga": "34750",
+    "category": "Ovo",
+    "code": "OVO35",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "45.000",
+    "harga": "44750",
+    "category": "Ovo",
+    "code": "OVO45",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "55.000",
+    "harga": "54750",
+    "category": "Ovo",
+    "code": "OVO55",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "65.000",
+    "harga": "64750",
+    "category": "Ovo",
+    "code": "OVO65",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "85.000",
+    "harga": "84750",
+    "category": "Ovo",
+    "code": "OVO85",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "95.000",
+    "harga": "94750",
+    "category": "Ovo",
+    "code": "OVO95",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "15.000",
+    "harga": "14750",
+    "category": "Ovo",
+    "code": "OVO15",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "1000.000",
+    "harga": "999750",
+    "category": "Ovo",
+    "code": "OVO1000",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "125.000",
+    "harga": "124750",
+    "category": "Ovo",
+    "code": "OVO125",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "150.000",
+    "harga": "149750",
+    "category": "Ovo",
+    "code": "OVO150",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "250.000",
+    "harga": "249750",
+    "category": "Ovo",
+    "code": "OVO250",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "300.000",
+    "harga": "299750",
+    "category": "Ovo",
+    "code": "OVO300",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "400.000",
+    "harga": "399750",
+    "category": "Ovo",
+    "code": "OVO400",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "500.000",
+    "harga": "499750",
+    "category": "Ovo",
+    "code": "OVO500",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "600.000",
+    "harga": "599750",
+    "category": "Ovo",
+    "code": "OVO600",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "700.000",
+    "harga": "699750",
+    "category": "Ovo",
+    "code": "OVO700",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "800.000",
+    "harga": "799750",
+    "category": "Ovo",
+    "code": "OVO800",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "900.000",
+    "harga": "899750",
+    "category": "Ovo",
+    "code": "OVO900",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "350.000",
+    "harga": "349750",
+    "category": "Ovo",
+    "code": "OVO350",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "450.000",
+    "harga": "449750",
+    "category": "Ovo",
+    "code": "OVO450",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "550.000",
+    "harga": "549750",
+    "category": "Ovo",
+    "code": "OVO550",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "650.000",
+    "harga": "649750",
+    "category": "Ovo",
+    "code": "OVO650",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "750.000",
+    "harga": "749750",
+    "category": "Ovo",
+    "code": "OVO750",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "850.000",
+    "harga": "849750",
+    "category": "Ovo",
+    "code": "OVO850",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "950.000",
+    "harga": "949750",
+    "category": "Ovo",
+    "code": "OVO950",
+    "status": "On",
+    "desc": "Top Up Saldo OVO"
+  },
+  {
+    "nama": "10.000",
+    "harga": "10500",
+    "category": "ShopeePay",
+    "code": "SHP10",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "100.000",
+    "harga": "100500",
+    "category": "ShopeePay",
+    "code": "SHP100",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "20.000",
+    "harga": "20500",
+    "category": "ShopeePay",
+    "code": "SHP20",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "50.000",
+    "harga": "50500",
+    "category": "ShopeePay",
+    "code": "SHP50",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "75.000",
+    "harga": "75500",
+    "category": "ShopeePay",
+    "code": "SHP75",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "200.000",
+    "harga": "200500",
+    "category": "ShopeePay",
+    "code": "SHP200",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "15.000",
+    "harga": "15500",
+    "category": "ShopeePay",
+    "code": "SHP15",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "25.000",
+    "harga": "25500",
+    "category": "ShopeePay",
+    "code": "SHP25",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "30.000",
+    "harga": "30500",
+    "category": "ShopeePay",
+    "code": "SHP30",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "40.000",
+    "harga": "40500",
+    "category": "ShopeePay",
+    "code": "SHP40",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "60.000",
+    "harga": "60500",
+    "category": "ShopeePay",
+    "code": "SHP60",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "70.000",
+    "harga": "70500",
+    "category": "ShopeePay",
+    "code": "SHP70",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "80.000",
+    "harga": "80500",
+    "category": "ShopeePay",
+    "code": "SHP80",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "90.000",
+    "harga": "90500",
+    "category": "ShopeePay",
+    "code": "SHP90",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "35.000",
+    "harga": "35500",
+    "category": "ShopeePay",
+    "code": "SHP35",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "45.000",
+    "harga": "45500",
+    "category": "ShopeePay",
+    "code": "SHP45",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "55.000",
+    "harga": "55500",
+    "category": "ShopeePay",
+    "code": "SHP55",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "65.000",
+    "harga": "65500",
+    "category": "ShopeePay",
+    "code": "SHP65",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "85.000",
+    "harga": "85500",
+    "category": "ShopeePay",
+    "code": "SHP85",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "95.000",
+    "harga": "95500",
+    "category": "ShopeePay",
+    "code": "SHP95",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "1000.000",
+    "harga": "1000500",
+    "category": "ShopeePay",
+    "code": "SHP1000",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "125.000",
+    "harga": "125500",
+    "category": "ShopeePay",
+    "code": "SHP125",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "250.000",
+    "harga": "250500",
+    "category": "ShopeePay",
+    "code": "SHP250",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "300.000",
+    "harga": "300500",
+    "category": "ShopeePay",
+    "code": "SHP300",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "400.000",
+    "harga": "400500",
+    "category": "ShopeePay",
+    "code": "SHP400",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "500.000",
+    "harga": "500500",
+    "category": "ShopeePay",
+    "code": "SHP500",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "600.000",
+    "harga": "600500",
+    "category": "ShopeePay",
+    "code": "SHP600",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "800.000",
+    "harga": "800500",
+    "category": "ShopeePay",
+    "code": "SHP800",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "900.000",
+    "harga": "900500",
+    "category": "ShopeePay",
+    "code": "SHP900",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "700.000",
+    "harga": "700500",
+    "category": "ShopeePay",
+    "code": "SHP700",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "150.000",
+    "harga": "150500",
+    "category": "ShopeePay",
+    "code": "SHP150",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "350.000",
+    "harga": "350500",
+    "category": "ShopeePay",
+    "code": "SHP350",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "450.000",
+    "harga": "450500",
+    "category": "ShopeePay",
+    "code": "SHP450",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "550.000",
+    "harga": "550500",
+    "category": "ShopeePay",
+    "code": "SHP550",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "650.000",
+    "harga": "650500",
+    "category": "ShopeePay",
+    "code": "SHP650",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "750.000",
+    "harga": "750500",
+    "category": "ShopeePay",
+    "code": "SHP750",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "850.000",
+    "harga": "850500",
+    "category": "ShopeePay",
+    "code": "SHP850",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "950.000",
+    "harga": "950500",
+    "category": "ShopeePay",
+    "code": "SHP950",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "5.000",
+    "harga": "5500",
+    "category": "ShopeePay",
+    "code": "SHP5",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "6.000",
+    "harga": "6500",
+    "category": "ShopeePay",
+    "code": "SHP6",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "7.000",
+    "harga": "7500",
+    "category": "ShopeePay",
+    "code": "SHP7",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "8.000",
+    "harga": "8500",
+    "category": "ShopeePay",
+    "code": "SHP8",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "9.000",
+    "harga": "8500",
+    "category": "ShopeePay",
+    "code": "SHP9",
+    "status": "On",
+    "desc": "Top Up Saldo ShopeePay"
   }
 ]
