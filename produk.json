@@ -2438,5 +2438,253 @@
     "code": "FMAF6",
     "status": "On",
     "desc": "FC Points"
+  },
+  {
+    "nama": "Link Aja 10.000",
+    "harga": "10250",
+    "category": "LinkAja",
+    "code": "LINK10",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 20.000",
+    "harga": "20250",
+    "category": "LinkAja",
+    "code": "LINK20",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 50.000",
+    "harga": "50250",
+    "category": "LinkAja",
+    "code": "LINK50",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 75.000",
+    "harga": "75250",
+    "category": "LinkAja",
+    "code": "LINK75",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 100.000",
+    "harga": "100250",
+    "category": "LinkAja",
+    "code": "LINK100",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "200.000",
+    "harga": "200290",
+    "category": "LinkAja",
+    "code": "LINK200",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 70.000",
+    "harga": "70250",
+    "category": "LinkAja",
+    "code": "LINK70",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 60.000",
+    "harga": "60250",
+    "category": "LinkAja",
+    "code": "LINK60",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 80.000",
+    "harga": "80250",
+    "category": "LinkAja",
+    "code": "LINK80",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 90.000",
+    "harga": "90250",
+    "category": "LinkAja",
+    "code": "LINK90",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 30.000",
+    "harga": "30250",
+    "category": "LinkAja",
+    "code": "LINK30",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 40.000",
+    "harga": "40250",
+    "category": "LinkAja",
+    "code": "LINK40",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 25.000",
+    "harga": "25250",
+    "category": "LinkAja",
+    "code": "LINK25",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 15.000",
+    "harga": "15250",
+    "category": "LinkAja",
+    "code": "LINK15",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 35.000",
+    "harga": "35250",
+    "category": "LinkAja",
+    "code": "LINK35",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 45.000",
+    "harga": "45250",
+    "category": "LinkAja",
+    "code": "LINK45",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 65.000",
+    "harga": "65250",
+    "category": "LinkAja",
+    "code": "LINK65",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 55.000",
+    "harga": "55250",
+    "category": "LinkAja",
+    "code": "LINK55",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 85.000",
+    "harga": "85250",
+    "category": "LinkAja",
+    "code": "LINK85",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 95.000",
+    "harga": "95250",
+    "category": "LinkAja",
+    "code": "LINK95",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "Link Aja 125.000",
+    "harga": "125250",
+    "category": "LinkAja",
+    "code": "LINK125",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "1.000.000",
+    "harga": "1000500",
+    "category": "LinkAja",
+    "code": "LINK1000",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "150.000",
+    "harga": "150250",
+    "category": "LinkAja",
+    "code": "LINK150",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "250.000",
+    "harga": "250500",
+    "category": "LinkAja",
+    "code": "LINK250",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "300.000",
+    "harga": "300530",
+    "category": "LinkAja",
+    "code": "LINK300",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "400.000",
+    "harga": "400500",
+    "category": "LinkAja",
+    "code": "LINK400",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "500.000",
+    "harga": "500500",
+    "category": "LinkAja",
+    "code": "LINK500",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "600.000",
+    "harga": "600500",
+    "category": "LinkAja",
+    "code": "LINK600",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "700.000",
+    "harga": "700500",
+    "category": "LinkAja",
+    "code": "LINK700",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "900.000",
+    "harga": "900500",
+    "category": "LinkAja",
+    "code": "LINK900",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
+  },
+  {
+    "nama": "800.000",
+    "harga": "800530",
+    "category": "LinkAja",
+    "code": "LINK800",
+    "status": "On",
+    "desc": "Top Up Saldo LinkAja"
   }
 ]
