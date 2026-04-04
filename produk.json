@@ -2334,5 +2334,109 @@
     "code": "SHP9",
     "status": "On",
     "desc": "Top Up Saldo ShopeePay"
+  },
+  {
+    "nama": "1056 CP",
+    "harga": "188699",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM1056",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "106 CP",
+    "harga": "19199",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM106",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "26 CP",
+    "harga": "4800",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM26",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "264 CP",
+    "harga": "47299",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM264",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "528 CP",
+    "harga": "93199",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM528",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "53 CP",
+    "harga": "9699",
+    "category": "Call Of Duty Mobile",
+    "code": "CODM53",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "1584 CP",
+    "harga": "262068",
+    "category": "Call Of Duty Mobile",
+    "code": "COD1584",
+    "status": "On",
+    "desc": "COD Points"
+  },
+  {
+    "nama": "40 Points",
+    "harga": "6214",
+    "category": "FC Mobile",
+    "code": "FMAF1",
+    "status": "On",
+    "desc": "FC Points"
+  },
+  {
+    "nama": "100 Points",
+    "harga": "15237",
+    "category": "FC Mobile",
+    "code": "FMAF2",
+    "status": "Off",
+    "desc": "FC Points"
+  },
+  {
+    "nama": "520 Points",
+    "harga": "74138",
+    "category": "FC Mobile",
+    "code": "FMAF3",
+    "status": "On",
+    "desc": "FC Points"
+  },
+  {
+    "nama": "1.070 Points",
+    "harga": "149010",
+    "category": "FC Mobile",
+    "code": "FMAF4",
+    "status": "On",
+    "desc": "FC Points"
+  },
+  {
+    "nama": "2.200 Points",
+    "harga": "308000",
+    "category": "FC Mobile",
+    "code": "FMAF5",
+    "status": "On",
+    "desc": "FC Points"
+  },
+  {
+    "nama": "5.750 Points",
+    "harga": "747286",
+    "category": "FC Mobile",
+    "code": "FMAF6",
+    "status": "On",
+    "desc": "FC Points"
   }
 ]
