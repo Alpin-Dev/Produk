@@ -2758,5 +2758,85 @@
     "code": "PLNB25",
     "status": "On",
     "desc": "Isi Token PLN"
+  },
+  {
+    "nama": "Membership Mingguan 50 Diamond",
+    "harga": "27696",
+    "category": "Free Fire",
+    "code": "FFM1",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Bulanan 50 Diamond",
+    "harga": "82787",
+    "category": "Free Fire",
+    "code": "FFM2",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass",
+    "harga": "13675",
+    "category": "Free Fire",
+    "code": "FFLUP",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Booyah Pass (BP CARD)",
+    "harga": "41310",
+    "category": "Free Fire",
+    "code": "KFFBP",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 6",
+    "harga": "4959",
+    "category": "Free Fire",
+    "code": "FFLUP6",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 30",
+    "harga": "13222",
+    "category": "Free Fire",
+    "code": "FFLUP30",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 25",
+    "harga": "8264",
+    "category": "Free Fire",
+    "code": "FFLUP25",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 20",
+    "harga": "8264",
+    "category": "Free Fire",
+    "code": "FFLUP20",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 15",
+    "harga": "8264",
+    "category": "Free Fire",
+    "code": "FFLUP15",
+    "status": "On",
+    "desc": "Free Fire Membership"
+  },
+  {
+    "nama": "Membership Level Up Pass - Level 10",
+    "harga": "8264",
+    "category": "Free Fire",
+    "code": "FFLUP10",
+    "status": "On",
+    "desc": "Free Fire Membership"
   }
 ]
